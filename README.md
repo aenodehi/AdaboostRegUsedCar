@@ -13,9 +13,6 @@
 - Hyperparameter Tuning
 - Remove Warning
 
-### Data Collection
-The dataset is collected from [Holiday package prediction dataset](https://www.kaggle.com/datasets/susant4learning/holiday-package-purchase-prediction)
-
 ### Setup Instructions
 
 #### 1. Clone the Repository
